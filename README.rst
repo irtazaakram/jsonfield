@@ -28,7 +28,7 @@ Requirements
 **jsonfield** aims to support all current `versions of Django`_, however the explicity tested versions are:
 
 * **Python:** 3.8
-* **Django:** 2.2, 3.0+
+* **Django:** 3.2+
 
 .. _versions of Django: https://www.djangoproject.com/download/#supported-versions
 
